@@ -11,7 +11,7 @@ A qubit, short for quantum bit, is a two level system with the quantum propertie
 Qubits are the building blocks of quantum computers just as bits are to a classical computer. A successful qubit is 
 one that can be initialised, coherently controlled and measured with high fidelity.  
 
-If a qubit has the two states  \(|0\rangle\) and  \(|1\rangle\) then superposition requires that the qubit can also be in the state  
+If a qubit has the two states  $$\vert 0\rangle$$ and  \(|1\rangle\) then superposition requires that the qubit can also be in the state  
 
 $$|\psi\rangle = \cos{\left(\theta/2\right)}|0\rangle + \frac{1}{2}e^{i\varphi}\sin{\theta}|1\rangle$$  
 

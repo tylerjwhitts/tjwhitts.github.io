@@ -23,6 +23,6 @@ where  $\theta $ and  $\varphi $ are real numbers that define a point on a 3D un
 # ToDo  
 
 - DiVincenzo criteria
-- $T_1$ and $T_2$ times
+- $$T_1$$ and $$T_2$$ times
 - Si/SiGe wiggle well
 - Use proper referencing system maybe a .bib file somehow

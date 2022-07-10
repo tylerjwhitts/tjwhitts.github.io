@@ -7,7 +7,7 @@ After a couple hours working out how MathJax worked with Jekyll we are up and ru
 
 This is definitely more of a long term project. Chances are I will give up on it like most things I start these days. But for now here's to the start of something new! And here's to my first blog post!  
 
-Maybe I'll even start blogging too. If I can find something that I am mildly interested in writing about. Scratch that I will have to extremely interested in a topic to write about it.
+Maybe I'll even start blogging too. If I can find something that I am mildly interested in writing about. Scratch that! I would have to extremely interested in a topic to consistently write about it.
 
 Until next time.
 

@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a current Physics Masters of Philosophy student at the University of Adelaide. I am an experimental condense matter physicist numerically modelling the g-factor and spin-orbit properties of InAs nanowires. My interests include  semiconducting qubits, spin qubits, topological qubits, InAs, Si, quantum computing, spin-orbit coupling, tight-binding and cryogenic measuremetns.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tyler.whittaker@adelaide.edu.au](mailto:tyler.whittaker@adelaide.edu.au)

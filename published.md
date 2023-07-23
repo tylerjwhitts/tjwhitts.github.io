@@ -1,5 +1,9 @@
 
-# Published works
+---
+layout: page
+title: Published Works
+permalink: /published/
+---
 
 ## Nonadiabatic quantum control of valley states in silicon
 Alan Gardin, Ross D. Monaghan, Tyler Whittaker, Rajib Rahman, and Giuseppe C. Tettamanzi,

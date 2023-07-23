@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a current Physics Masters of Philosophy student at the University of Adelaide. I am an experimental condense matter physicist numerically modelling the g-factor and spin-orbit properties of InAs nanowires. My interests include  semiconducting qubits, spin qubits, topological qubits, InAs, Si, quantum computing, spin-orbit coupling, tight-binding and cryogenic measuremetns.
+I am a recent Physics Masters of Philosophy graduate from the University of Adelaide. I am interested in many-body systems such as semiconductors and superconductors and the quantum phenomena they exhibit when confined to the nanoscale. My recent work includes numerically modelling the effective g-factor and spin-orbit interactions in InAs nanowires. I also have a passion for optimising workflows whether that be for personal use or to stream line group projects.
 
 ### Contact me
 

@@ -24,4 +24,4 @@ University of Adelaide - 2023
 - Travel and life on the road
 
 ### Contact me
-[tyler.whittaker@adelaide.edu.au](mailto:tyler.whittaker@adelaide.edu.au)
+[tylerjwhittaker76@gmail.com](mailto:tylerjwhittaker76@gmail.com)

@@ -5,8 +5,7 @@ permalink: /published/
 ---
 
 ## Quantum transport and spin-orbit coupling in semiconductor nanostructures
-Tyler Whittaker
-University of Adelaide, Masters of Philosophy, July 2023
+Tyler Whittaker, Masters of Philosophy Thesis, University of Adelaide, July 2023  
 [https://digital.library.adelaide.edu.au/dspace/handle/2440/138952](https://digital.library.adelaide.edu.au/dspace/handle/2440/138952)
 
 ## Nonadiabatic quantum control of valley states in silicon

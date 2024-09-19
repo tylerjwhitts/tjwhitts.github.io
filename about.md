@@ -14,7 +14,7 @@ I am most proficient in Python but I have experience in MATLAB, C++, HTML5, CSS 
 ## Education
 **Masters of Philosophy - Physics**  
 University of Adelaide - 2023  
-Thesis Title: Quantum transport and spin-orbit coupling in semiconducting nanostructures.  
+Thesis Title: _Quantum transport and spin-orbit coupling in semiconducting nanostructures._  
 Numerical modelling of the effective g-factor and spin-orbit interactions in InAs nanowires. 
 Low temperature measurements of nanoscale semiconducting devices.
 

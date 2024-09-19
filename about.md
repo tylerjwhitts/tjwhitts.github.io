@@ -18,5 +18,10 @@ University of Adelaide - 2023
 - Numerical modelling of the effective g-factor and spin-orbit interactions in InAs nanowires. 
 - Low temperature measurements of nanoscale semiconducting devices.
 
+## Personal interests
+- Surfing and skateboarding
+- Music and guitars
+- Travel and life on the road
+
 ### Contact me
 [tyler.whittaker@adelaide.edu.au](mailto:tyler.whittaker@adelaide.edu.au)
